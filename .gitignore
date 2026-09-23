@@ -1,0 +1,21 @@
+# Earlier unsuccessful microstrip design
+s11_first_microstrip.csv
+z_first_microstrip.csv
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# HFSS generated results, locks and autosaves
+*.aedtresults/
+*.aedt.lock
+*.aedt.auto
+*.aedt.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
