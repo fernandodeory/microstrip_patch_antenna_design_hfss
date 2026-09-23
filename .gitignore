@@ -1,6 +1,6 @@
 # Earlier unsuccessful microstrip design
-s11_first_microstrip.csv
-z_first_microstrip.csv
+csv/s11_first_microstrip.csv
+csv/z_first_microstrip.csv
 
 # Python and Jupyter
 __pycache__/
